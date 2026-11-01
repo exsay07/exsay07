@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Hi, I'm exsay" width="100%">
+  <img src="banner.gif" alt="VS Code banner by copiumdealer" title="Banner by copiumdealer (TikTok: @yourcopiumdealer)" width="100%">
 </p>
 
 <p align="center">
