@@ -1,7 +1,3 @@
-![banner](6faf88e9679bf932c80a1cd1dce9abfc.jpg)
-
-# exsay
-
 Learning data analytics and building my own products with vibe coding.
 
 Right now I'm on SQL. Power BI and Python are next.
