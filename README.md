@@ -29,12 +29,6 @@
   <a href="https://www.linkedin.com/in/nazar-rak-0030393b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn"></a>
 </p>
 
-<h2 align="center">My Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2c7da0/exsay07" alt="exsay07 contribution graph" width="100%">
-</p>
-
 <h2 align="center">My GitHub Stats</h2>
 
 <p align="center">
