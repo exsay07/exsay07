@@ -1,29 +1,19 @@
-![exsay](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c7da0&height=170&section=header&text=exsay&fontColor=ffffff&fontSize=60&fontAlignY=35)
+![banner](6faf88e9679bf932c80a1cd1dce9abfc.jpg)
 
-**Learning data analytics · Building products with vibe coding**
+# exsay
 
-[![X](https://img.shields.io/badge/X-@__exsay-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_exsay)
+Learning data analytics and building my own products with vibe coding.
 
-## 👋 About me
+Right now I'm on SQL. Power BI and Python are next.
 
-I'm learning data analytics and building products with vibe coding, using AI tools to turn ideas into working apps.
+### Projects
 
-## 📊 Learning path
+[chog-toolhub-hackathon](https://github.com/exsay07/chog-toolhub-hackathon): trading workstation for Monad. TypeScript.
 
-| Step | Topic | Status |
-| --- | --- | --- |
-| 1 | SQL | 🟢 Learning now |
-| 2 | Power BI | ⚪ Next |
-| 3 | Python (pandas) | ⚪ Next |
+[tg-forwarder](https://github.com/exsay07/tg-forwarder): forwards messages from one Telegram group to another. Python.
 
-## 🚀 Projects
+[telegram-account-manager](https://github.com/exsay07/telegram-account-manager): runs actions across several Telegram accounts at once. Python.
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [chog-toolhub-hackathon](https://github.com/exsay07/chog-toolhub-hackathon) | All-in-one trading workstation for Monad | TypeScript |
-| [tg-forwarder](https://github.com/exsay07/tg-forwarder) | Automated message forwarding between Telegram groups | Python |
-| [telegram-account-manager](https://github.com/exsay07/telegram-account-manager) | Manage several Telegram accounts and run batch actions | Python |
+### Contact
 
-## 🛠 Tools
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[x.com/_exsay](https://x.com/_exsay)
