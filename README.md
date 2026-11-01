@@ -1,6 +1,6 @@
-# Hi, I'm exsay 👋
+# Hi, I'm exsay 
 
-I'm learning data analytics and building products with vibe coding,
+learning data analytics and building products with vibe coding,
 using AI tools to turn ideas into working apps.
 
 **Learning now:** SQL → Power BI → Python (pandas)
