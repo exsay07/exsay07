@@ -13,3 +13,5 @@ Right now I'm on SQL. Power BI and Python are next.
 ### Contact
 
 [x.com/_exsay](https://x.com/_exsay)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn">](https://www.linkedin.com/in/nazar-rak-0030393b8/)
