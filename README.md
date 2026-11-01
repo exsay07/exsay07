@@ -1,17 +1,42 @@
-Learning data analytics and building my own products with vibe coding.
+<p align="center">
+  <img src="banner.png" alt="Hi, I'm exsay" width="100%">
+</p>
 
-Right now I'm on SQL. Power BI and Python are next.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/exsay07?style=flat-square&label=Followers&color=555555" alt="Followers">
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20repos&color=4c1&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fexsay07&query=%24.public_repos" alt="Public repos">
+</p>
 
-### Projects
+<h2 align="center">Technology Stack</h2>
 
-[chog-toolhub-hackathon](https://github.com/exsay07/chog-toolhub-hackathon): trading workstation for Monad. TypeScript.
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</p>
 
-[tg-forwarder](https://github.com/exsay07/tg-forwarder): forwards messages from one Telegram group to another. Python.
+<h2 align="center">Learning Now</h2>
 
-[telegram-account-manager](https://github.com/exsay07/telegram-account-manager): runs actions across several Telegram accounts at once. Python.
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+</p>
 
-### Contact
+<h2 align="center">Reach me out on</h2>
 
-[x.com/_exsay](https://x.com/_exsay)
+<p align="center">
+  <a href="https://x.com/_exsay"><img src="https://img.shields.io/badge/-@__exsay-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/nazar-rak-0030393b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn"></a>
+</p>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn">](https://www.linkedin.com/in/nazar-rak-0030393b8/)
+<h2 align="center">My Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2c7da0/exsay07" alt="exsay07 contribution graph" width="100%">
+</p>
+
+<h2 align="center">My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exsay07&theme=radical&locale=en" alt="GitHub streak stats">
+</p>
