@@ -28,9 +28,3 @@
   <a href="https://x.com/_exsay"><img src="https://img.shields.io/badge/-@__exsay-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/in/nazar-rak-0030393b8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn"></a>
 </p>
-
-<h2 align="center">My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exsay07&theme=radical&locale=en" alt="GitHub streak stats">
-</p>
